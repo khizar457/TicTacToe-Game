@@ -1,7 +1,8 @@
 # TIC-TAC-TOE GAME
  Welcome to my Tic Tac Toe game! This project is a simple yet engaging implementation of the classic Tic Tac Toe game, developed using HTML, CSS, and JavaScript.
 [Play the Game](https://tic-tac-toe-game-xi-weld.vercel.app/)
-<br>
+
+# Demo Image
 ![Demo Image](demo.png)
 
 # Languages:
